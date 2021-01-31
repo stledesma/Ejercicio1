@@ -41,7 +41,7 @@ public class SporadicAuthor extends Author implements InterfaceMensaje{
 
     @Override
     public void Registro() {
-       System.out.println("Mensaje desde Autor Exporadico"); //To change body of generated methods, choose Tools | Templates.
+       System.out.println("Mensaje desde Autor Exporadicoj"); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
